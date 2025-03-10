@@ -1,2 +1,14 @@
+# Private Data
+.env
+
+# Data
 raw_data/
+
+# Python version
 .python-version
+
+# All notebooks
+notebooks/
+
+# IDE #
+*.vscode
